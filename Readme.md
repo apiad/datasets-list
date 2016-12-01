@@ -1,5 +1,15 @@
+# List of Machine Learning Datasets
+
+The following is a list of publicly availables datasets for various machine learning tasks. Reviews, fixes, dead links and updates are appreciated.
+Please provide due credit by adding below in the `Acknowledgments` section the links to the corresponding sources. 
+
+## Data Journals
+
 (http://sargasso.nl/soort/data/)[Data-artikelen | Sargasso]
 (http://www.guardian.co.uk/news/datablog)[Data journalism and data visualization from the Datablog | News | The Guardian]
+
+## Data Marketplaces and Data Hubs
+
 (http://knoema.com/)[Knoema – Home]
 (http://aws.amazon.com/datasets)[Public Data Sets : Amazon Web Services]
 (https://opendata.socrata.com/)[Socrata]
@@ -11,14 +21,23 @@
 (http://www.aggdata.com/data)[Data Sets | AggData]
 (http://datamarket.azure.com/browse/data)[Find & Purchase Data Subscriptions | Windows Azure Marketplace]
 (http://factual.com/)[Factual | Home]
+
+## Data Search Engines 
+
 (http://www.zanran.com/q/)[Zanran Numerical Data Search]
 (http://www.quandl.com/)[Quandl – Intelligent Search for Numerical Data]
+
+## International Bodies & Agencies
+
 (http://www.imf.org/external/data.htm)[IMF Data and Statistics]
 (http://data.worldbank.org/)[Data | The World Bank]
 (http://stats.oecd.org/)[OECD.Stat]
 (http://data.un.org/)[UNdata]
 (http://www.eea.europa.eu/data-and-maps)[Data and maps — European Environment Agency (EEA)]
 (http://epp.eurostat.ec.europa.eu/portal/page/portal/eurostat/home)[Eurostat Home]
+
+## Local Governments
+
 (http://www.datos.misiones.gov.ar/)[Inicio Misiones]
 (http://www.data.wien.gv.at/)[Open Government Data Wien (OGD)]
 (http://www.brussels.be/artdet.cfm?id=7191)[Open data – City of Brussels]
@@ -70,12 +89,21 @@
 (http://arvada.org/opendata)[US/Arvada]
 (http://www.gov.hk/en/theme/psi/welcome/)[GovHK: About Data.One]
 (http://data.gov.sg/)[data.gov.sg Singapore]
+
+## Machine Learning Challenges
+
 (http://www.sigkdd.org/kddcup/index.php)[ACM KDD CUP]
 (http://www.kaggle.com/competitions)[Competitions – Kaggle]
 (http://www.causality.inf.ethz.ch/repository.php)[Data – Repository – Causality Workbench]
 (http://tunedit.org/)[TunedIT – Data mining & machine learning data sets, algorithms, challenges]
+
+## Machine Learning Datasets
+
 (http://mldata.org/)[mldata :: Welcome]
 (http://archive.ics.uci.edu/ml/datasets.html)[UCI Machine Learning Repository: Data Sets]
+
+## Miscellaneous Data Sources
+
 (http://www.healthmetricsandevaluation.org/)[IHME | Institute for Health Metrics and Evaluation]
 (http://www.gapminder.org/)[Gapminder: Unveiling the beauty of statistics for a fact based world view.]
 (http://schools.nyc.gov/Accountability/data/default.htm)[Doing Research in New York City Public Schools and Requesting Data – NYC Data – New York City Department of Education]
@@ -101,6 +129,9 @@
 (http://pewinternet.org/Data-Tools/Download-Data/Data-Sets.aspx)[Data Sets | Pew Research Center’s Internet & American Life Project]
 (https://cosm.com/explore)[Cosm – Explore]
 (http://www.advancednflstats.com/2010/04/play-by-play-data.html)[Advanced NFL Stats: Play-by-Play Data]
+
+## National Governments and States
+
 (http://portaltransparencia.gob.mx/pot/openData/openData.jsp)[Portal de Obligaciones de Transparencia]
 (http://www.juntadeandalucia.es/datosabiertos/portal.html)[Junta de Andalucía – Datos abiertos]
 (http://www.datosabiertos.jcyl.es/)[Reutilización de la Información del Sector Público | Reutilización de la Información de los Servicios Públicos]
@@ -171,12 +202,21 @@
 (http://datos.gob.es/datos/?language=in)[Portada | datos.gob.es]
 (http://www.datos.gov.co/)[Open Data Colombia]
 (http://data.gov.uk/)[home | data.gov.uk]
+
+## Open Companies Data Sources
+
 (http://www.yelp.com/academic_dataset)[Yelp’s Academic Dataset | Yelp]
 (http://www.prosper.com/tools/DataExport.aspx)[Data Export – Prosper]
 (https://www.lendingclub.com/info/download-data.action)[Lending Club Statistics – Lending Club]
+
+## U.S. Agencies Data Sources
+
 (http://www.data.gov/metric)[Federal Agency Participation | Data.gov]
 (http://services.sunlightlabs.com/)[services.sunlightlabs.com]
 (http://www.federalreserve.gov/feeds/datadownload.html)[FRB: Data Download Program (DDP)]
+
+## Various Lists of Data Sources
+
 (http://www.quora.com/Programming-Challenges-1/What-are-some-good-toy-problems-in-data-science)[Programming Challenges: What are some good “toy problems” in data science? – Quora]
 (http://www.quora.com/Data/Where-can-I-find-large-datasets-open-to-the-public)[Data: Where can I find large datasets open to the public? – Quora]
 (http://www.quora.com/Data-Analysis/Whats-your-favorite-free-data-source)[Data Analysis: What’s your favorite free data source? – Quora]
@@ -188,6 +228,9 @@
 (http://www.reddit.com/r/opendata/)[Open Data]
 (http://www.reddit.com/r/datasets/)[Datasets Archive]
 (http://www.datawrangling.com/some-datasets-available-on-the-web)[Some Datasets Available on the Web » Data Wrangling Blog]
+
+## Research Quality Datasets by Hilary Mason
+
 (http://www.lendingclub.com/info/download-data.action)[Lending Club Loan Data]
 (http://www.dt.fee.unicamp.br/~tiago/smsspamcollection/)[SMS Spam Collection]
 (http://www.isi.edu/~lerman/downloads/flickr/flickr_taxonomies.html)[Flickr personal taxonomies]
@@ -237,3 +280,7 @@
 (http://commoncrawl.org/new-crawl-data-available/)[New Crawl Data Available! | CommonCrawl]
 (http://home.cc.gatech.edu/ice-gt/556)[Detailed data on pass rates, race, and gender for 2013]
 (http://voteview.com/dwnl.htm Data Download
+
+# Acknowledgments (online sources)
+
+ * (https://blog.bigml.com/list-of-public-data-sources-fit-for-machine-learning/)[BigML - List of Public Data Sources Fit for Machine Learning]
