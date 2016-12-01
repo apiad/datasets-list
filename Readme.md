@@ -5,7 +5,7 @@ Please provide due credit by adding below in the `Acknowledgments` section the l
 
 ## Data Journals
 
-(http://sargasso.nl/soort/data/)[Data-artikelen | Sargasso]
+[http://sargasso.nl/soort/data/](Data-artikelen | Sargasso)
 (http://www.guardian.co.uk/news/datablog)[Data journalism and data visualization from the Datablog | News | The Guardian]
 
 ## Data Marketplaces and Data Hubs
